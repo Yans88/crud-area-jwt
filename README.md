@@ -1,5 +1,5 @@
 # Task Day 10 - crud-area with JWT
-Jum'at, 26 Agustus 2022
+Jum'at, 26 Agustus 2022.
 
 Crud data provinsi dan kota menggunakan JWT.
 
